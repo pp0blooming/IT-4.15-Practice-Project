@@ -1,6 +1,6 @@
 # IT-4.15-Practice-Project
 
-# This is a group project
+# This is a group project -------------
 # Katy is going to create a branch "tmp_kk" 
 ## Katy is going to create & modify new_fileA & new_fileB 
 ## Katy is going to commit both files 
